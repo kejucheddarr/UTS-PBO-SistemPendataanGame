@@ -12,6 +12,8 @@
   <b>Gambar 1. Tampilan Menu Utama</b>
 </p>
 
+---
+
 <p>Pada menu Tampilkan Koleksi Game, program menampilkan seluruh data game yang tersimpan.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/ccd5cdd3-07e7-4ac8-8919-087149d5acc0" width="500"/>
