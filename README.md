@@ -1,4 +1,10 @@
 # UTS-PBO-SistemPendataanGame
+Nama: Nabila Salma Putri
+
+NIM: 2509116065
+
+Kelas: B
+
 ## Deskripsi Proyek
 <p>Program Sistem Pendataan Game merupakan program berbasis Java yang digunakan untuk mengelola data koleksi game. Program ini memungkinkan pengguna untuk menampilkan, menambahkan, mengubah, dan menghapus data game. Game dibedakan menjadi dua jenis, yaitu game fisik dan game digital, yang memiliki informasi tambahan sesuai jenisnya.</p>
 <p>Program ini dibuat untuk menerapkan konsep Object-Oriented Programming (OOP) seperti inheritance, encapsulation, dan polymorphism.</p>
