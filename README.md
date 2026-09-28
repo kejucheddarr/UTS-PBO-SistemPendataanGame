@@ -4,35 +4,55 @@
 
 ## Alur Program dan Penjelasan Output
 <p>Saat program dijalankan, pengguna akan ditampilkan menu utama yang berisi beberapa pilihan, yaitu menampilkan koleksi game, menambahkan game baru, mengubah data game, menghapus game, mencari game, dan keluar dari program.</p>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/a14b274f-1a76-473a-856c-b64f8863b0ff" width="500"/>
-<p>Gambar 1. Tampilan Menu Utama</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a14b274f-1a76-473a-856c-b64f8863b0ff" width="500"/>
+  <br>
+  
+  Gambar 1. Tampilan Menu Utama
+</p>
 
 <p>Pada menu Tampilkan Koleksi Game, program menampilkan seluruh data game yang tersimpan. Pada menu Tambahkan Game Baru, pengguna dapat memilih jenis game, yaitu game fisik atau game digital, kemudian memasukkan data game sesuai dengan jenis yang dipilih.</p>
-<div align="center>
-<img src="https://github.com/user-attachments/assets/c24c4751-e215-420d-948a-b830b688a469" width="500"/>
-<p>Gambar 2. Menu Tampilkan Koleksi Game</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccd5cdd3-07e7-4ac8-8919-087149d5acc0" width="500"/>
+  <br>
+  
+  Gambar 2. Menu Tampilkan Koleksi Game
+</p>
 
 <p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih. .</p>
-<div align="center>
-<img src="https://github.com/user-attachments/assets/e38c8fa8-e55c-411f-b360-e9740c4f55ab" width="500"/>
-<p>Gambar 3. Menu Ubah Data Game</p>
-<img src="https://github.com/user-attachments/assets/9542994d-aa1a-48b0-9d78-2d14e45c9384" width="500"/>
-<p>Gambar 4. Setelah Update Menu Data Game</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b3f0369-f145-4bbc-857d-48a3e36ce422" width="500"/>
+  <br>
+  
+  Gambar 3. Menu Ubah Data Game
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/d58ba2db-d706-469e-aa62-c6cfe855b2d2" width="500" />
+  <br>
+
+  Gambar 4. Setelah Update Menu Data Game
+</p>
 
 <p>Menu Hapus Game juga menggunakan nama game sebagai pencarian dan meminta konfirmasi pengguna sebelum data dihapus</p>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/de513111-96d2-4029-84f9-e09b2dada89d" width="500"/>
-<p>Gambar 5. Menu Delete Game</p>
-<img src="https://github.com/user-attachments/assets/4a1efdce-3dc3-4700-b2ae-dfe1a80f4f23" width="500"/>
-<p>Gambar 6. Setelah Delete Game</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4566cfb0-b398-450a-9ae4-2290ec2e4c3d" width="500"/>
+  <br>
+
+  Gambar 5. Menu Delete Game
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/6959158f-784c-4601-8ac9-4ae691744802" width="500"/>
+  <br>
+
+  Gambar 6. Setelah Delete Game
+</p>
 
 <p>Setelah menjalankan salah satu proses, program akan kembali ke menu utama sehingga pengguna dapat memilih proses lainnya. Program akan berhenti ketika pengguna memilih menu Keluar.</p>
-<div align="center">
-<img src="https://github.com/user-attachments/assets/1ce4c906-113f-4f48-b528-d39c7fa2fdb8" width="500"/>
-<p>Gambar 7. Menu Keluar</p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4fa9040-df87-4ab7-aff1-7ee38390cdb4" width="500"/>
+  <br>
+
+  Gambar 7. Menu Keluar
+</p>
+
+
