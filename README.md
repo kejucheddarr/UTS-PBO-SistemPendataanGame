@@ -10,9 +10,9 @@
 </div>
 
 <p>Pada menu Tampilkan Koleksi Game, program menampilkan seluruh data game yang tersimpan. Pada menu Tambahkan Game Baru, pengguna dapat memilih jenis game, yaitu game fisik atau game digital, kemudian memasukkan data game sesuai dengan jenis yang dipilih.</p>
-<div align+"center>
+<div align="center>
 <img src="https://github.com/user-attachments/assets/c24c4751-e215-420d-948a-b830b688a469" width="500"/>
-<p>Gambar 2. Menu Tampilkan Koleksi Game</p></p>
+<p>Gambar 2. Menu Tampilkan Koleksi Game</p>
 </div>
 
 <p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih. .</p>
