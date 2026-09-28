@@ -35,7 +35,7 @@
 </p>
 
 
-<p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih. .</p>
+<p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/4b3f0369-f145-4bbc-857d-48a3e36ce422" width="500"/>
   <br>
@@ -49,7 +49,7 @@
   <b>Gambar 6. Setelah Update Menu Data Game</b>
 </p>
 
-<p>Menu Hapus Game juga menggunakan nama game sebagai pencarian dan meminta konfirmasi pengguna sebelum data dihapus</p>
+<p>Menu Hapus Game menggunakan nama game sebagai pencarian dan meminta konfirmasi pengguna sebelum data dihapus.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/4566cfb0-b398-450a-9ae4-2290ec2e4c3d" width="500"/>
   <br>
