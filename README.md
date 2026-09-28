@@ -35,7 +35,7 @@
 </p>
 
 
-<p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih.</p>
+<p>Menu Ubah Data Game digunakan untuk mengubah informasi game yang dipilih.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/4b3f0369-f145-4bbc-857d-48a3e36ce422" width="500"/>
   <br>
