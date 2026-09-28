@@ -5,7 +5,7 @@
 
 ## Alur Program dan Penjelasan Output
 <p>Saat program dijalankan, pengguna akan ditampilkan menu utama yang berisi beberapa pilihan, yaitu menampilkan koleksi game, menambahkan game baru, mengubah data game, menghapus game, mencari game, dan keluar dari program.</p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/a14b274f-1a76-473a-856c-b64f8863b0ff" width="500"/>
   <br>
   
@@ -13,7 +13,7 @@
 </p>
 
 <p>Pada menu Tampilkan Koleksi Game, program menampilkan seluruh data game yang tersimpan. Pada menu Tambahkan Game Baru, pengguna dapat memilih jenis game, yaitu game fisik atau game digital, kemudian memasukkan data game sesuai dengan jenis yang dipilih.</p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/ccd5cdd3-07e7-4ac8-8919-087149d5acc0" width="500"/>
   <br>
   
@@ -21,7 +21,7 @@
 </p>
 
 <p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih. .</p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/4b3f0369-f145-4bbc-857d-48a3e36ce422" width="500"/>
   <br>
   
@@ -35,7 +35,7 @@
 </p>
 
 <p>Menu Hapus Game juga menggunakan nama game sebagai pencarian dan meminta konfirmasi pengguna sebelum data dihapus</p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/4566cfb0-b398-450a-9ae4-2290ec2e4c3d" width="500"/>
   <br>
 
@@ -49,7 +49,7 @@
 </p>
 
 <p>Setelah menjalankan salah satu proses, program akan kembali ke menu utama sehingga pengguna dapat memilih proses lainnya. Program akan berhenti ketika pengguna memilih menu Keluar.</p>
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/e4fa9040-df87-4ab7-aff1-7ee38390cdb4" width="500"/>
   <br>
 
