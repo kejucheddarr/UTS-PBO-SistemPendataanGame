@@ -22,6 +22,8 @@
   <b>Gambar 2. Menu Tampilkan Koleksi Game</b>
 </p>
 
+---
+
 <p>Pada menu Tambahkan Game Baru, pengguna dapat memilih jenis game, yaitu game fisik atau game digital, kemudian memasukkan data game sesuai dengan jenis yang dipilih.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/ea787f2a-7764-4d87-98d4-dc6747c8cd96" width="500" />
@@ -36,6 +38,7 @@
   <b>Gambar 4. Setelah Penambahan Game</b>
 </p>
 
+---
 
 <p>Menu Ubah Data Game digunakan untuk mengubah informasi game yang dipilih.</p>
 <p>
@@ -51,6 +54,8 @@
   <b>Gambar 6. Setelah Update Menu Data Game</b>
 </p>
 
+---
+
 <p>Menu Hapus Game menggunakan nama game sebagai pencarian dan meminta konfirmasi pengguna sebelum data dihapus.</p>
 <p>
   <img src="https://github.com/user-attachments/assets/4566cfb0-b398-450a-9ae4-2290ec2e4c3d" width="500"/>
@@ -64,6 +69,8 @@
 
   <b>Gambar 8. Setelah Delete Game</b>
 </p>
+
+---
 
 <p>Setelah menjalankan salah satu proses, program akan kembali ke menu utama sehingga pengguna dapat memilih proses lainnya. Program akan berhenti ketika pengguna memilih menu Keluar.</p>
 <p>
