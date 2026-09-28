@@ -1,6 +1,7 @@
 # UTS-PBO-SistemPendataanGame
 ## Deskripsi Proyek
-<p>Program Sistem Pendataan Game merupakan program berbasis Java yang digunakan untuk mengelola data koleksi game. Program ini memungkinkan pengguna untuk menampilkan, menambahkan, mengubah, menghapus, dan mencari data game. Game dibedakan menjadi dua jenis, yaitu game fisik dan game digital, yang memiliki informasi tambahan sesuai jenisnya. Program ini dibuat untuk menerapkan konsep Object-Oriented Programming (OOP), seperti inheritance, encapsulation, dan polymorphism.</p>
+<p>Program Sistem Pendataan Game merupakan program berbasis Java yang digunakan untuk mengelola data koleksi game. Program ini memungkinkan pengguna untuk menampilkan, menambahkan, mengubah, menghapus, dan mencari data game. Game dibedakan menjadi dua jenis, yaitu game fisik dan game digital, yang memiliki informasi tambahan sesuai jenisnya.</p>
+<p>Program ini dibuat untuk menerapkan konsep Object-Oriented Programming (OOP), seperti inheritance, encapsulation, dan polymorphism.</p>
 
 ## Alur Program dan Penjelasan Output
 <p>Saat program dijalankan, pengguna akan ditampilkan menu utama yang berisi beberapa pilihan, yaitu menampilkan koleksi game, menambahkan game baru, mengubah data game, menghapus game, mencari game, dan keluar dari program.</p>
