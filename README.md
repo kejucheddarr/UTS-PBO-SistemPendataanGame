@@ -16,7 +16,7 @@
   <img src="https://github.com/user-attachments/assets/ccd5cdd3-07e7-4ac8-8919-087149d5acc0" width="500"/>
   <br>
   
-  Gambar 2. Menu Tampilkan Koleksi Game
+  <b>Gambar 2. Menu Tampilkan Koleksi Game</b>
 </p>
 
 <p>Menu Ubah Data Game digunakan untuk mencari game berdasarkan nama, kemudian mengubah informasi game yang dipilih. .</p>
