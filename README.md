@@ -26,10 +26,9 @@
   <br>
   
   <b>Gambar 3. Menu Ubah Data Game</b>
-</p>
-
-<p align="center>
-  <img src="https://github.com/user-attachments/assets/d58ba2db-d706-469e-aa62-c6cfe855b2d2" width="500" />
+  <br>
+  
+  <img src="https://github.com/user-attachments/assets/d58ba2db-d706-469e-aa62-c6cfe855b2d2" width="500" align="center"/>
   <br>
 
   <b>Gambar 4. Setelah Update Menu Data Game</b>
@@ -41,10 +40,9 @@
   <br>
 
   <b>Gambar 5. Menu Delete Game</b>
-</p>
-
-<p align="center>
-  <img src="https://github.com/user-attachments/assets/6959158f-784c-4601-8ac9-4ae691744802" width="500"/>
+  <br>
+  
+  <img src="https://github.com/user-attachments/assets/6959158f-784c-4601-8ac9-4ae691744802" width="500" align="center"/>
   <br>
 
   <b>Gambar 6. Setelah Delete Game</b>
